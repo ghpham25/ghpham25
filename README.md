@@ -1,4 +1,4 @@
-# Hi, I'm Giang, a student from Colby College 👋
+# Hi, I'm Giang Pham! 
 
 <!--
 **ghpham25/ghpham25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science major with a passion for Mathematics. In my free time, I play guitar, read, and watch Big Bang Theory. 
+⚡ I'm a Computer Science and Mathematics double major at Colby College. I've developed tools for education and accessibility, including VR and AI/ML solutions. Currently, I'm an AI Engineer Intern for an educational non-profit in Tanzania, creating a quiz-generation AI chatbot for their mobile applications. 
 
-About me: 
+🌱 In my free time, I enjoy Kpop, traveling, reading, cooking, and playing badminton!
 
-👯 In my most recent job, I mentored in SureStart AI Trailblazer program that helped students from diverse backgrounds get into AI. 
-
-🌱 I'm currently building a web app that promotes creative writing leveraging OpenAI API, React, and Express, and I'm working on building an NLP model that can categorize English vocabulary for second language learning purposes! 
-
-🔭 I'm currently looking to intern as a Software Engineer or Data Analyst in Summer 2024! 
-
-😄 I love collaborating while learning from other people. My current role model: Amanda Stent and Chip Huyen. 
-
-Feel free to contact me via email: giangphamhuong0@gmail.com! I'd love to find more teammates who share the same interests in my projects. Let's learn together! 
-
-
-
-
-
-
+Feel free to reach out: giangphamhuong0@gmail.com
 
